@@ -23,11 +23,12 @@ The following screenshots showcase the key features and interfaces of kobuzz. Th
   </div>
   <p><em>Search Results</em></p>
 
+  <img src="complete.png" alt="Download Complete" width="80%" style="margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <p><em>Download Complete</em></p>
+  
   <img src="settings.png" alt="Settings" width="80%" style="margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   <p><em>Settings</em></p>
 
-  <img src="complete.png" alt="Download Complete" width="80%" style="margin-bottom: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <p><em>Download Complete</em></p>
 </div>
 
 These screenshots demonstrate the intuitive workflow of kobuzz - from logging in with your Qobuz credentials, browsing the dashboard, searching for music, configuring settings, to completing downloads. The application provides visual feedback at each step to ensure a smooth user experience.
