@@ -1,0 +1,19 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "colorama>=0.4.6",
+    "flask>=3.1.0",
+    "flask-cors>=5.0.1",
+    "mutagen>=1.47.0",
+    "pathvalidate>=3.2.3",
+    "pick==1.6.0",
+    "python-dotenv>=1.1.0",
+    "qobuz-dl>=0.9.9.10",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
